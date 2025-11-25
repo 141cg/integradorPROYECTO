@@ -17,5 +17,10 @@ let datosDelFormulario={
     contraseña:cajaContraseña.value,
 }
 
+Swal.fire({
+  title: "Bienvenid@!",
+  text: "has sido registrado",
+  icon: "success"
+});
 
 })

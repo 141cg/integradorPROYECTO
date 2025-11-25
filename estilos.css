@@ -1,0 +1,28 @@
+.colorPrincipal{
+    background-color: #5B0A0A;
+
+}
+.btn-primary{
+    background-color: #D9C4A1;
+    border-color: black;
+}
+.btn-primary:hover{
+    background-color: #C48A84;
+    border-color: black;
+}
+.fondo{
+    background-image: url(".//fondo\ .png");
+    background-position: top center;
+    background-size: cover;
+    padding: 25%;
+    background-attachment: fixed;
+
+}
+.fondo2{
+    background-image: url(".//fondo2.png");
+    background-position: top center;
+    background-size: cover;
+    padding: 25%;
+    background-attachment: fixed;
+    
+}
